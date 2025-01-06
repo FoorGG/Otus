@@ -1,0 +1,5 @@
+---
+- name: SRV_INFO
+  hosts: srv
+  remote_user: root
+...
